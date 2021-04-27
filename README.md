@@ -4,7 +4,7 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-DynamiComputational-Fluid-Dynamics-Papers/blob/master/c(1).PDF" style="text-decoration:none;">Accelerating Eulerian Fluid SimulationWith Convolutional Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-DynamiComputational-Fluid-Dynamics-Papers/blob/master/c(1).pdf" style="text-decoration:none;">Accelerating Eulerian Fluid SimulationWith Convolutional Networks</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(2).pdf" style="text-decoration:none;">Search for Lorentz and CPT violation using sidereal time dependence of neutrino flavor transitions over a short baseline</a></li>
 
