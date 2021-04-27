@@ -18,10 +18,33 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(9).pdf" style="text-decoration:none;">Convolutional Neural Networks for Steady Flow Approximation</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(10).pdf" style="text-decoration:none;">Convolutional Neural Networks for Steady Flow Approximation </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(10).pdf" style="text-decoration:none;">Machine learning accelerated computational fluid dynamics </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(11).pdf" style="text-decoration:none;">Deep learning in fluid
 dynamics</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(12).pdf" style="text-decoration:none;">Application of machine learning algorithms to flow modeling and optimization</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(13).pdf" style="text-decoration:none;">Deep Learning for Flow Sculpting: Insights into Efficient Learning using Scientific Simulation Data</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(14).pdf" style="text-decoration:none;">Computational Fluid Dynamics on AWS</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(15).pdf" style="text-decoration:none;">Computational Fluid Dynamics: Science of the Future</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(16).pdf" style="text-decoration:none;">An Elementary Study of Computational Fluid Dynamics For Various Engineering Applications – A Review</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(17).pdf" style="text-decoration:none;">Verification and Validation in Computational Fluid Dynamics</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(18).pdf" style="text-decoration:none;">Introduction of Computational Fluid Dynamics</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(19).pdf" style="text-decoration:none;">Computational Fluid Dynamics for Urban Physics: Importance, scales, possibilities, limitations and ten tips and tricks towards accurate and reliable simulations</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(20).pdf" style="text-decoration:none;">A review on applications of computational fluid dynamics</a></li>
+
+
+
+
+
+
+
 
 </ul>
