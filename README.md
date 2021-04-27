@@ -12,7 +12,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(4).pdf" style="text-decoration:none;">Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(5).pdf" style="text-decoration:none;">Solving PDE problems with uncertainty using neural-networks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(6).pdf" style="text-decoration:none;">Deep Learning the Physics of Transport Phenomena</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(7).pdf" style="text-decoration:none;">A unied deep articial neural network approach to partial differential equations in complex geometries</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(7).pdf" style="text-decoration:none;">A unified deep artificial neural network approach to partial differential equations in complex geometries</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(8).pdf" style="text-decoration:none;"> Towards physics-informed deep learning for turbulent flow prediction </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Fluid-Dynamics-Papers/blob/master/c(9).pdf" style="text-decoration:none;">Convolutional Neural Networks for Steady Flow Approximation</a></li>
